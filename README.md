@@ -1,7 +1,7 @@
 # SoftcomputingProject
 
 
-IMAGE COMPRESSION UDING FUZZY LOGIC
+IMAGE COMPRESSION USING FUZZY LOGIC
 
 PROBLEM STATEMENT:
 Image compression is a technique in which large amount of disk space is required for the raw images which seems to be a very big disadvantage during transmission and storage. With increase in technology an efficient technique for image compression is needed. Even though there are so many compression techniques , but there comes a need for better compression technique which is faster, memory efficient and simply suits the requirements of the user.
