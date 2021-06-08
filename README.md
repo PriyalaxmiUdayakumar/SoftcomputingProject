@@ -10,4 +10,4 @@ OBJECTIVE:
 Our objective is to obtain better quality of image with no loss or minimal loss of data as well as the compressed image. This can be achieved by fuzzy logic with Huffman coding. Huffman coding technique is good compression technique in lossless image compression and the coding redundancy can be eliminated by assigning the codes in better way.
 
 PROPOSED:
-We proposed a simple lossless data compression algorithm that uses multiple Huffman coding tables to compress WSNs data adaptively. The type used in this compression is lossless compression which means when the data are compressed there will be no loss of information. When processed in the logic block the compressed data is decompressed and each and every data are processed and are provided in the output.
+We proposed a simple lossless data compression algorithm that uses multiple Huffman coding tables. The type used in this compression is lossless compression which means when the data are compressed there will be no loss of information. When processed in the logic block the compressed data is decompressed and each and every data are processed and are provided in the output.
